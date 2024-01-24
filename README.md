@@ -1,4 +1,4 @@
-## Proyecto: Web de comercio electrónico
+## Proyecto: Módulo Angular de comercio electrónico
 
 #### Desarrollar una aplicación básica de comercio electrónico que implemente un catálogo, un carrito de la compra y un formulario de pedido.
 
