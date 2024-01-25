@@ -1,0 +1,36 @@
+/* Puedes colocar estos estilos en tu archivo styles.css o en tu componente específico si usas estilos encapsulados */
+
+.producto {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .producto h2 {
+    color: #3498db;
+  }
+  
+  .producto p {
+    margin: 0;
+  }
+  
+  .producto div {
+    margin-top: 10px;
+  }
+  /* Estilos anteriores ... */
+
+.producto button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+ 
+  
+  
